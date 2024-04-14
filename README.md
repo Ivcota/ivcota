@@ -14,10 +14,16 @@ Life long learner, problem solver, husband of a beautiful wife.
 - Communication over Isolation
 - Simple and Explained Diffs
 
-## Tools
+## Toolbox
 - Vim Keybinds
 - Lazygit
 - Neovim 
 - Sprinkle of VSCode
 - JS / TS for web
 - Anything for everything else
+
+## Morning Boosters 
+- Morning Drink: ☕️
+- Daily Read: Proverb
+- Tech Updates: HackerNews & X
+  
