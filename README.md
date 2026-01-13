@@ -17,7 +17,8 @@ Life long learner, problem solver, husband of a beautiful wife.
 ### Toolbox
 - Vim Keybinds
 - Lazygit
-- Neovim 
+- Neovim
+- Claude :)
 - Sprinkle of VSCode
 - JS / TS for web
 - Anything for everything else
