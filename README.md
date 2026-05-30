@@ -20,8 +20,8 @@ Life long learner, problem solver, husband of a beautiful wife.
 - Vim Keybinds
 - Lazygit
 - Neovim
-- Claude :)
-- Sprinkle of VSCode
+- Zed
+- Codex :)
 - JS / TS for web
 - Anything for everything else
 
